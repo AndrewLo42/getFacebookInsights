@@ -1,0 +1,19 @@
+{
+  "name": "slick-marketers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "run-func index.js run",
+    "connect": "node sqlconnect.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "mssql": "^11.0.0",
+    "run-func": "^3.0.0"
+  }
+}
