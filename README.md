@@ -10,7 +10,7 @@ This is all connected to Microsoft SQL Server on Azure.
     - Need to cut up chunks of code in index.js into their own file for readability
     - Will also allow for obtaining data from one segment (like only leads) instead of going through EVERYTHING
 - Find a way to obtain leads that are listed on Business Suite but not through APIs
-    - Might be bugged? 
+    - Might be bugged on FaceBook's end? 
 - Get accurate reach number (Might be different due to Facebook error? Sometimes their own numbers on business suite don't even add up)
 
 # HOW TO USE 
