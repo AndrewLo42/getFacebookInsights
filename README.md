@@ -12,6 +12,8 @@ This is all connected to Microsoft SQL Server on Azure.
 - Find a way to obtain leads that are listed on Business Suite but not through APIs
     - Might be bugged on FaceBook's end? 
 - Get accurate reach number (Might be different due to Facebook error? Sometimes their own numbers on business suite don't even add up)
+- Potentially find a way to refresh API tokens?
+    - Long term token at the very least
 
 # HOW TO USE 
 ## As a dev
